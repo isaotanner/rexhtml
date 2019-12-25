@@ -1,0 +1,3325 @@
+{
+  "version" : "1.1.0",
+  "data" : "香港・九竜半島側でデモ終了後、若者と警官衝突\n香港で７日、中国への犯罪容疑者引き渡しを可能にする逃亡犯条例改正案の撤回を求めるデモが、中国本土と地続きの九竜半島側で初めて行われた。デモ終了後、若者ら数千人が九竜半島の幹線道路を占拠した。一部が警官隊と衝突し、数人が拘束された。\nデモには、主催者発表で２３万人（警察発表５万６０００人）が参加した。６月の１００万～２００万人規模（主催者発表）には及ばないものの、香港政府が事態の沈静化に努めているにもかかわらず、香港住民の不満が収まっていないことが示された。\n６、７月の大規模デモは、これまで政府機関のある香港島で行われた。条例改正を巡る動きは、中国本土でほとんど報道されていない。そのため、主催者は今回、「中国本土からの観光客にも現状を訴えたい」として、香港と中国本土を結ぶ高速鉄道の西九竜駅や、中国人観光客に人気のショッピング街がある九竜側を選んだ。\n香港政府は、条例撤回を求める若者らが１日に立法会（議会）を一時占拠したことを厳しく批判し、活動家１人を起訴するなど、刑事責任の追及を始めている。中国政府も、「暴力行為」として糾弾する姿勢を示している。\nこれに対し、７日のデモ参加者は、「暴徒はいない。あるのは暴政のみだ」と訴え、中国・香港両政府に強く反発した。\n",
+  "attributes" : {
+    "sentence" : {
+      "type" : "list",
+      "itemType" : "sentence",
+      "items" : [ {
+        "startOffset" : 0,
+        "endOffset" : 90
+      }, {
+        "startOffset" : 90,
+        "endOffset" : 118
+      }, {
+        "startOffset" : 118,
+        "endOffset" : 139
+      }, {
+        "startOffset" : 139,
+        "endOffset" : 173
+      }, {
+        "startOffset" : 173,
+        "endOffset" : 254
+      }, {
+        "startOffset" : 254,
+        "endOffset" : 286
+      }, {
+        "startOffset" : 286,
+        "endOffset" : 315
+      }, {
+        "startOffset" : 315,
+        "endOffset" : 402
+      }, {
+        "startOffset" : 402,
+        "endOffset" : 474
+      }, {
+        "startOffset" : 474,
+        "endOffset" : 503
+      }, {
+        "startOffset" : 503,
+        "endOffset" : 527
+      }, {
+        "startOffset" : 527,
+        "endOffset" : 558
+      } ]
+    },
+    "token" : {
+      "type" : "list",
+      "itemType" : "token",
+      "items" : [ {
+        "startOffset" : 0,
+        "endOffset" : 2,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 2,
+        "endOffset" : 3,
+        "text" : "・",
+        "analyses" : [ {
+          "partOfSpeech" : "UNKNOWN",
+          "lemma" : "・"
+        } ]
+      }, {
+        "startOffset" : 3,
+        "endOffset" : 5,
+        "text" : "九竜",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "九竜"
+        } ]
+      }, {
+        "startOffset" : 5,
+        "endOffset" : 7,
+        "text" : "半島",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "半島"
+        } ]
+      }, {
+        "startOffset" : 7,
+        "endOffset" : 8,
+        "text" : "側",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "側"
+        } ]
+      }, {
+        "startOffset" : 8,
+        "endOffset" : 9,
+        "text" : "で",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "で"
+        } ]
+      }, {
+        "startOffset" : 9,
+        "endOffset" : 11,
+        "text" : "デモ",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "デモ"
+        } ]
+      }, {
+        "startOffset" : 11,
+        "endOffset" : 13,
+        "text" : "終了",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "終了"
+        } ]
+      }, {
+        "startOffset" : 13,
+        "endOffset" : 14,
+        "text" : "後",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "後"
+        } ]
+      }, {
+        "startOffset" : 14,
+        "endOffset" : 15,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 15,
+        "endOffset" : 17,
+        "text" : "若者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "若者"
+        } ]
+      }, {
+        "startOffset" : 17,
+        "endOffset" : 18,
+        "text" : "と",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "と"
+        } ]
+      }, {
+        "startOffset" : 18,
+        "endOffset" : 20,
+        "text" : "警官",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "警官"
+        } ]
+      }, {
+        "startOffset" : 20,
+        "endOffset" : 22,
+        "text" : "衝突",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "衝突"
+        } ]
+      }, {
+        "startOffset" : 23,
+        "endOffset" : 25,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 25,
+        "endOffset" : 26,
+        "text" : "で",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "で"
+        } ]
+      }, {
+        "startOffset" : 26,
+        "endOffset" : 27,
+        "text" : "７",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "７"
+        } ]
+      }, {
+        "startOffset" : 27,
+        "endOffset" : 28,
+        "text" : "日",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "日"
+        } ]
+      }, {
+        "startOffset" : 28,
+        "endOffset" : 29,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 29,
+        "endOffset" : 31,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 31,
+        "endOffset" : 32,
+        "text" : "へ",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "へ"
+        } ]
+      }, {
+        "startOffset" : 32,
+        "endOffset" : 33,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 33,
+        "endOffset" : 35,
+        "text" : "犯罪",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "犯罪"
+        } ]
+      }, {
+        "startOffset" : 35,
+        "endOffset" : 38,
+        "text" : "容疑者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "容疑者"
+        } ]
+      }, {
+        "startOffset" : 38,
+        "endOffset" : 42,
+        "text" : "引き渡し",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "引き渡し"
+        } ]
+      }, {
+        "startOffset" : 42,
+        "endOffset" : 43,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 43,
+        "endOffset" : 45,
+        "text" : "可能",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "可能"
+        } ]
+      }, {
+        "startOffset" : 45,
+        "endOffset" : 46,
+        "text" : "に",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に"
+        } ]
+      }, {
+        "startOffset" : 46,
+        "endOffset" : 48,
+        "text" : "する",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 48,
+        "endOffset" : 50,
+        "text" : "逃亡",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "逃亡"
+        } ]
+      }, {
+        "startOffset" : 50,
+        "endOffset" : 51,
+        "text" : "犯",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "犯"
+        } ]
+      }, {
+        "startOffset" : 51,
+        "endOffset" : 53,
+        "text" : "条例",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "条例"
+        } ]
+      }, {
+        "startOffset" : 53,
+        "endOffset" : 55,
+        "text" : "改正",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "改正"
+        } ]
+      }, {
+        "startOffset" : 55,
+        "endOffset" : 56,
+        "text" : "案",
+        "analyses" : [ {
+          "partOfSpeech" : "WS",
+          "lemma" : "案"
+        } ]
+      }, {
+        "startOffset" : 56,
+        "endOffset" : 57,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 57,
+        "endOffset" : 59,
+        "text" : "撤回",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "撤回"
+        } ]
+      }, {
+        "startOffset" : 59,
+        "endOffset" : 60,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 60,
+        "endOffset" : 63,
+        "text" : "求める",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "求める"
+        } ]
+      }, {
+        "startOffset" : 63,
+        "endOffset" : 65,
+        "text" : "デモ",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "デモ"
+        } ]
+      }, {
+        "startOffset" : 65,
+        "endOffset" : 66,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 66,
+        "endOffset" : 67,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 67,
+        "endOffset" : 69,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 69,
+        "endOffset" : 71,
+        "text" : "本土",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "本土"
+        } ]
+      }, {
+        "startOffset" : 71,
+        "endOffset" : 72,
+        "text" : "と",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "と"
+        } ]
+      }, {
+        "startOffset" : 72,
+        "endOffset" : 75,
+        "text" : "地続き",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "地続き"
+        } ]
+      }, {
+        "startOffset" : 75,
+        "endOffset" : 76,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 76,
+        "endOffset" : 78,
+        "text" : "九竜",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "九竜"
+        } ]
+      }, {
+        "startOffset" : 78,
+        "endOffset" : 80,
+        "text" : "半島",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "半島"
+        } ]
+      }, {
+        "startOffset" : 80,
+        "endOffset" : 81,
+        "text" : "側",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "側"
+        } ]
+      }, {
+        "startOffset" : 81,
+        "endOffset" : 82,
+        "text" : "で",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "で"
+        } ]
+      }, {
+        "startOffset" : 82,
+        "endOffset" : 85,
+        "text" : "初めて",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "初める"
+        } ]
+      }, {
+        "startOffset" : 85,
+        "endOffset" : 89,
+        "text" : "行われた",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "行う"
+        } ]
+      }, {
+        "startOffset" : 89,
+        "endOffset" : 90,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 90,
+        "endOffset" : 92,
+        "text" : "デモ",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "デモ"
+        } ]
+      }, {
+        "startOffset" : 92,
+        "endOffset" : 94,
+        "text" : "終了",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "終了"
+        } ]
+      }, {
+        "startOffset" : 94,
+        "endOffset" : 95,
+        "text" : "後",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "後"
+        } ]
+      }, {
+        "startOffset" : 95,
+        "endOffset" : 96,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 96,
+        "endOffset" : 98,
+        "text" : "若者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "若者"
+        } ]
+      }, {
+        "startOffset" : 98,
+        "endOffset" : 99,
+        "text" : "ら",
+        "analyses" : [ {
+          "partOfSpeech" : "WS",
+          "lemma" : "ら"
+        } ]
+      }, {
+        "startOffset" : 99,
+        "endOffset" : 101,
+        "text" : "数千",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "数千"
+        } ]
+      }, {
+        "startOffset" : 101,
+        "endOffset" : 102,
+        "text" : "人",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "人"
+        } ]
+      }, {
+        "startOffset" : 102,
+        "endOffset" : 103,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 103,
+        "endOffset" : 105,
+        "text" : "九竜",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "九竜"
+        } ]
+      }, {
+        "startOffset" : 105,
+        "endOffset" : 107,
+        "text" : "半島",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "半島"
+        } ]
+      }, {
+        "startOffset" : 107,
+        "endOffset" : 108,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 108,
+        "endOffset" : 110,
+        "text" : "幹線",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "幹線"
+        } ]
+      }, {
+        "startOffset" : 110,
+        "endOffset" : 112,
+        "text" : "道路",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "道路"
+        } ]
+      }, {
+        "startOffset" : 112,
+        "endOffset" : 113,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 113,
+        "endOffset" : 115,
+        "text" : "占拠",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "占拠"
+        } ]
+      }, {
+        "startOffset" : 115,
+        "endOffset" : 117,
+        "text" : "した",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 117,
+        "endOffset" : 118,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 118,
+        "endOffset" : 120,
+        "text" : "一部",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "一部"
+        } ]
+      }, {
+        "startOffset" : 120,
+        "endOffset" : 121,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 121,
+        "endOffset" : 123,
+        "text" : "警官",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "警官"
+        } ]
+      }, {
+        "startOffset" : 123,
+        "endOffset" : 124,
+        "text" : "隊",
+        "analyses" : [ {
+          "partOfSpeech" : "WS",
+          "lemma" : "隊"
+        } ]
+      }, {
+        "startOffset" : 124,
+        "endOffset" : 125,
+        "text" : "と",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "と"
+        } ]
+      }, {
+        "startOffset" : 125,
+        "endOffset" : 127,
+        "text" : "衝突",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "衝突"
+        } ]
+      }, {
+        "startOffset" : 127,
+        "endOffset" : 128,
+        "text" : "し",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 128,
+        "endOffset" : 129,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 129,
+        "endOffset" : 131,
+        "text" : "数人",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "数人"
+        } ]
+      }, {
+        "startOffset" : 131,
+        "endOffset" : 132,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 132,
+        "endOffset" : 134,
+        "text" : "拘束",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "拘束"
+        } ]
+      }, {
+        "startOffset" : 134,
+        "endOffset" : 137,
+        "text" : "された",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 137,
+        "endOffset" : 138,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 139,
+        "endOffset" : 141,
+        "text" : "デモ",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "デモ"
+        } ]
+      }, {
+        "startOffset" : 141,
+        "endOffset" : 142,
+        "text" : "に",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に"
+        } ]
+      }, {
+        "startOffset" : 142,
+        "endOffset" : 143,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 143,
+        "endOffset" : 144,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 144,
+        "endOffset" : 145,
+        "text" : "主",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "主"
+        } ]
+      }, {
+        "startOffset" : 145,
+        "endOffset" : 147,
+        "text" : "催者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "催者"
+        } ]
+      }, {
+        "startOffset" : 147,
+        "endOffset" : 149,
+        "text" : "発表",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "発表"
+        } ]
+      }, {
+        "startOffset" : 149,
+        "endOffset" : 150,
+        "text" : "で",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "で"
+        } ]
+      }, {
+        "startOffset" : 150,
+        "endOffset" : 153,
+        "text" : "２３万",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "２３万"
+        } ]
+      }, {
+        "startOffset" : 153,
+        "endOffset" : 154,
+        "text" : "人",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "人"
+        } ]
+      }, {
+        "startOffset" : 154,
+        "endOffset" : 155,
+        "text" : "（",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "（"
+        } ]
+      }, {
+        "startOffset" : 155,
+        "endOffset" : 157,
+        "text" : "警察",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "警察"
+        } ]
+      }, {
+        "startOffset" : 157,
+        "endOffset" : 159,
+        "text" : "発表",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "発表"
+        } ]
+      }, {
+        "startOffset" : 159,
+        "endOffset" : 165,
+        "text" : "５万６０００",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "５万６０００"
+        } ]
+      }, {
+        "startOffset" : 165,
+        "endOffset" : 166,
+        "text" : "人",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "人"
+        } ]
+      }, {
+        "startOffset" : 166,
+        "endOffset" : 167,
+        "text" : "）",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "）"
+        } ]
+      }, {
+        "startOffset" : 167,
+        "endOffset" : 168,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 168,
+        "endOffset" : 170,
+        "text" : "参加",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "参加"
+        } ]
+      }, {
+        "startOffset" : 170,
+        "endOffset" : 172,
+        "text" : "した",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 172,
+        "endOffset" : 173,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 173,
+        "endOffset" : 174,
+        "text" : "６",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "６"
+        } ]
+      }, {
+        "startOffset" : 174,
+        "endOffset" : 175,
+        "text" : "月",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "月"
+        } ]
+      }, {
+        "startOffset" : 175,
+        "endOffset" : 176,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 176,
+        "endOffset" : 180,
+        "text" : "１００万",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "１００万"
+        } ]
+      }, {
+        "startOffset" : 180,
+        "endOffset" : 181,
+        "text" : "～",
+        "analyses" : [ {
+          "partOfSpeech" : "UNKNOWN",
+          "lemma" : "～"
+        } ]
+      }, {
+        "startOffset" : 181,
+        "endOffset" : 185,
+        "text" : "２００万",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "２００万"
+        } ]
+      }, {
+        "startOffset" : 185,
+        "endOffset" : 186,
+        "text" : "人",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "人"
+        } ]
+      }, {
+        "startOffset" : 186,
+        "endOffset" : 188,
+        "text" : "規模",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "規模"
+        } ]
+      }, {
+        "startOffset" : 188,
+        "endOffset" : 189,
+        "text" : "（",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "（"
+        } ]
+      }, {
+        "startOffset" : 189,
+        "endOffset" : 190,
+        "text" : "主",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "主"
+        } ]
+      }, {
+        "startOffset" : 190,
+        "endOffset" : 192,
+        "text" : "催者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "催者"
+        } ]
+      }, {
+        "startOffset" : 192,
+        "endOffset" : 194,
+        "text" : "発表",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "発表"
+        } ]
+      }, {
+        "startOffset" : 194,
+        "endOffset" : 195,
+        "text" : "）",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "）"
+        } ]
+      }, {
+        "startOffset" : 195,
+        "endOffset" : 197,
+        "text" : "には",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "には"
+        } ]
+      }, {
+        "startOffset" : 197,
+        "endOffset" : 201,
+        "text" : "及ばない",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "及ぶ"
+        } ]
+      }, {
+        "startOffset" : 201,
+        "endOffset" : 204,
+        "text" : "ものの",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "ものの"
+        } ]
+      }, {
+        "startOffset" : 204,
+        "endOffset" : 205,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 205,
+        "endOffset" : 207,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 207,
+        "endOffset" : 209,
+        "text" : "政府",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "政府"
+        } ]
+      }, {
+        "startOffset" : 209,
+        "endOffset" : 210,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 210,
+        "endOffset" : 212,
+        "text" : "事態",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "事態"
+        } ]
+      }, {
+        "startOffset" : 212,
+        "endOffset" : 213,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 213,
+        "endOffset" : 215,
+        "text" : "沈静",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "沈静"
+        } ]
+      }, {
+        "startOffset" : 215,
+        "endOffset" : 216,
+        "text" : "化",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "化"
+        } ]
+      }, {
+        "startOffset" : 216,
+        "endOffset" : 217,
+        "text" : "に",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に"
+        } ]
+      }, {
+        "startOffset" : 217,
+        "endOffset" : 220,
+        "text" : "努めて",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "努める"
+        } ]
+      }, {
+        "startOffset" : 220,
+        "endOffset" : 222,
+        "text" : "いる",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "いる"
+        } ]
+      }, {
+        "startOffset" : 222,
+        "endOffset" : 229,
+        "text" : "にもかかわらず",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "にもかかわらず"
+        } ]
+      }, {
+        "startOffset" : 229,
+        "endOffset" : 230,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 230,
+        "endOffset" : 232,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 232,
+        "endOffset" : 234,
+        "text" : "住民",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "住民"
+        } ]
+      }, {
+        "startOffset" : 234,
+        "endOffset" : 235,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 235,
+        "endOffset" : 237,
+        "text" : "不満",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "不満"
+        } ]
+      }, {
+        "startOffset" : 237,
+        "endOffset" : 238,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 238,
+        "endOffset" : 242,
+        "text" : "収まって",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "収まる"
+        } ]
+      }, {
+        "startOffset" : 242,
+        "endOffset" : 245,
+        "text" : "いない",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "いる"
+        } ]
+      }, {
+        "startOffset" : 245,
+        "endOffset" : 247,
+        "text" : "こと",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "こと"
+        } ]
+      }, {
+        "startOffset" : 247,
+        "endOffset" : 248,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 248,
+        "endOffset" : 252,
+        "text" : "示された",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "示す"
+        } ]
+      }, {
+        "startOffset" : 252,
+        "endOffset" : 253,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 254,
+        "endOffset" : 255,
+        "text" : "６",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "６"
+        } ]
+      }, {
+        "startOffset" : 255,
+        "endOffset" : 256,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 256,
+        "endOffset" : 257,
+        "text" : "７",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "７"
+        } ]
+      }, {
+        "startOffset" : 257,
+        "endOffset" : 258,
+        "text" : "月",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "月"
+        } ]
+      }, {
+        "startOffset" : 258,
+        "endOffset" : 259,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 259,
+        "endOffset" : 262,
+        "text" : "大規模",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "大規模"
+        } ]
+      }, {
+        "startOffset" : 262,
+        "endOffset" : 264,
+        "text" : "デモ",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "デモ"
+        } ]
+      }, {
+        "startOffset" : 264,
+        "endOffset" : 265,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 265,
+        "endOffset" : 266,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 266,
+        "endOffset" : 268,
+        "text" : "これ",
+        "analyses" : [ {
+          "partOfSpeech" : "NR",
+          "lemma" : "これ"
+        } ]
+      }, {
+        "startOffset" : 268,
+        "endOffset" : 270,
+        "text" : "まで",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "まで"
+        } ]
+      }, {
+        "startOffset" : 270,
+        "endOffset" : 272,
+        "text" : "政府",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "政府"
+        } ]
+      }, {
+        "startOffset" : 272,
+        "endOffset" : 274,
+        "text" : "機関",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "機関"
+        } ]
+      }, {
+        "startOffset" : 274,
+        "endOffset" : 275,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 275,
+        "endOffset" : 277,
+        "text" : "ある",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "ある"
+        } ]
+      }, {
+        "startOffset" : 277,
+        "endOffset" : 279,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 279,
+        "endOffset" : 280,
+        "text" : "島",
+        "analyses" : [ {
+          "partOfSpeech" : "WS",
+          "lemma" : "島"
+        } ]
+      }, {
+        "startOffset" : 280,
+        "endOffset" : 281,
+        "text" : "で",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "で"
+        } ]
+      }, {
+        "startOffset" : 281,
+        "endOffset" : 285,
+        "text" : "行われた",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "行う"
+        } ]
+      }, {
+        "startOffset" : 285,
+        "endOffset" : 286,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 286,
+        "endOffset" : 288,
+        "text" : "条例",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "条例"
+        } ]
+      }, {
+        "startOffset" : 288,
+        "endOffset" : 290,
+        "text" : "改正",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "改正"
+        } ]
+      }, {
+        "startOffset" : 290,
+        "endOffset" : 291,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 291,
+        "endOffset" : 293,
+        "text" : "巡る",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "巡る"
+        } ]
+      }, {
+        "startOffset" : 293,
+        "endOffset" : 295,
+        "text" : "動き",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "動き"
+        } ]
+      }, {
+        "startOffset" : 295,
+        "endOffset" : 296,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 296,
+        "endOffset" : 297,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 297,
+        "endOffset" : 299,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 299,
+        "endOffset" : 301,
+        "text" : "本土",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "本土"
+        } ]
+      }, {
+        "startOffset" : 301,
+        "endOffset" : 302,
+        "text" : "で",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "で"
+        } ]
+      }, {
+        "startOffset" : 302,
+        "endOffset" : 306,
+        "text" : "ほとんど",
+        "analyses" : [ {
+          "partOfSpeech" : "D",
+          "lemma" : "ほとんど"
+        } ]
+      }, {
+        "startOffset" : 306,
+        "endOffset" : 308,
+        "text" : "報道",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "報道"
+        } ]
+      }, {
+        "startOffset" : 308,
+        "endOffset" : 311,
+        "text" : "されて",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 311,
+        "endOffset" : 314,
+        "text" : "いない",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "いる"
+        } ]
+      }, {
+        "startOffset" : 314,
+        "endOffset" : 315,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 315,
+        "endOffset" : 319,
+        "text" : "そのため",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "そのため"
+        } ]
+      }, {
+        "startOffset" : 319,
+        "endOffset" : 320,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 320,
+        "endOffset" : 321,
+        "text" : "主",
+        "analyses" : [ {
+          "partOfSpeech" : "AN",
+          "lemma" : "主"
+        } ]
+      }, {
+        "startOffset" : 321,
+        "endOffset" : 323,
+        "text" : "催者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "催者"
+        } ]
+      }, {
+        "startOffset" : 323,
+        "endOffset" : 324,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 324,
+        "endOffset" : 326,
+        "text" : "今回",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "今回"
+        } ]
+      }, {
+        "startOffset" : 326,
+        "endOffset" : 327,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 327,
+        "endOffset" : 328,
+        "text" : "「",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "「"
+        } ]
+      }, {
+        "startOffset" : 328,
+        "endOffset" : 330,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 330,
+        "endOffset" : 332,
+        "text" : "本土",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "本土"
+        } ]
+      }, {
+        "startOffset" : 332,
+        "endOffset" : 334,
+        "text" : "から",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "から"
+        } ]
+      }, {
+        "startOffset" : 334,
+        "endOffset" : 335,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 335,
+        "endOffset" : 337,
+        "text" : "観光",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "観光"
+        } ]
+      }, {
+        "startOffset" : 337,
+        "endOffset" : 338,
+        "text" : "客",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "客"
+        } ]
+      }, {
+        "startOffset" : 338,
+        "endOffset" : 340,
+        "text" : "にも",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "にも"
+        } ]
+      }, {
+        "startOffset" : 340,
+        "endOffset" : 342,
+        "text" : "現状",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "現状"
+        } ]
+      }, {
+        "startOffset" : 342,
+        "endOffset" : 343,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 343,
+        "endOffset" : 347,
+        "text" : "訴えたい",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "訴える"
+        } ]
+      }, {
+        "startOffset" : 347,
+        "endOffset" : 348,
+        "text" : "」",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "」"
+        } ]
+      }, {
+        "startOffset" : 348,
+        "endOffset" : 351,
+        "text" : "として",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "として"
+        } ]
+      }, {
+        "startOffset" : 351,
+        "endOffset" : 352,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 352,
+        "endOffset" : 354,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 354,
+        "endOffset" : 355,
+        "text" : "と",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "と"
+        } ]
+      }, {
+        "startOffset" : 355,
+        "endOffset" : 357,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 357,
+        "endOffset" : 359,
+        "text" : "本土",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "本土"
+        } ]
+      }, {
+        "startOffset" : 359,
+        "endOffset" : 360,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 360,
+        "endOffset" : 362,
+        "text" : "結ぶ",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "結ぶ"
+        } ]
+      }, {
+        "startOffset" : 362,
+        "endOffset" : 364,
+        "text" : "高速",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "高速"
+        } ]
+      }, {
+        "startOffset" : 364,
+        "endOffset" : 366,
+        "text" : "鉄道",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "鉄道"
+        } ]
+      }, {
+        "startOffset" : 366,
+        "endOffset" : 367,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 367,
+        "endOffset" : 368,
+        "text" : "西",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "西"
+        } ]
+      }, {
+        "startOffset" : 368,
+        "endOffset" : 370,
+        "text" : "九竜",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "九竜"
+        } ]
+      }, {
+        "startOffset" : 370,
+        "endOffset" : 371,
+        "text" : "駅",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "駅"
+        } ]
+      }, {
+        "startOffset" : 371,
+        "endOffset" : 372,
+        "text" : "や",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "や"
+        } ]
+      }, {
+        "startOffset" : 372,
+        "endOffset" : 373,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 373,
+        "endOffset" : 376,
+        "text" : "中国人",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "中国人"
+        } ]
+      }, {
+        "startOffset" : 376,
+        "endOffset" : 378,
+        "text" : "観光",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "観光"
+        } ]
+      }, {
+        "startOffset" : 378,
+        "endOffset" : 379,
+        "text" : "客",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "客"
+        } ]
+      }, {
+        "startOffset" : 379,
+        "endOffset" : 380,
+        "text" : "に",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に"
+        } ]
+      }, {
+        "startOffset" : 380,
+        "endOffset" : 382,
+        "text" : "人気",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "人気"
+        } ]
+      }, {
+        "startOffset" : 382,
+        "endOffset" : 383,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 383,
+        "endOffset" : 389,
+        "text" : "ショッピング",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "ショッピング"
+        } ]
+      }, {
+        "startOffset" : 389,
+        "endOffset" : 390,
+        "text" : "街",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "街"
+        } ]
+      }, {
+        "startOffset" : 390,
+        "endOffset" : 391,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 391,
+        "endOffset" : 393,
+        "text" : "ある",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "ある"
+        } ]
+      }, {
+        "startOffset" : 393,
+        "endOffset" : 395,
+        "text" : "九竜",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "九竜"
+        } ]
+      }, {
+        "startOffset" : 395,
+        "endOffset" : 396,
+        "text" : "側",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "側"
+        } ]
+      }, {
+        "startOffset" : 396,
+        "endOffset" : 397,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 397,
+        "endOffset" : 400,
+        "text" : "選んだ",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "選ぶ"
+        } ]
+      }, {
+        "startOffset" : 400,
+        "endOffset" : 401,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 402,
+        "endOffset" : 404,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 404,
+        "endOffset" : 406,
+        "text" : "政府",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "政府"
+        } ]
+      }, {
+        "startOffset" : 406,
+        "endOffset" : 407,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 407,
+        "endOffset" : 408,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 408,
+        "endOffset" : 410,
+        "text" : "条例",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "条例"
+        } ]
+      }, {
+        "startOffset" : 410,
+        "endOffset" : 412,
+        "text" : "撤回",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "撤回"
+        } ]
+      }, {
+        "startOffset" : 412,
+        "endOffset" : 413,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 413,
+        "endOffset" : 416,
+        "text" : "求める",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "求める"
+        } ]
+      }, {
+        "startOffset" : 416,
+        "endOffset" : 418,
+        "text" : "若者",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "若者"
+        } ]
+      }, {
+        "startOffset" : 418,
+        "endOffset" : 419,
+        "text" : "ら",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "ら"
+        } ]
+      }, {
+        "startOffset" : 419,
+        "endOffset" : 420,
+        "text" : "が",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "が"
+        } ]
+      }, {
+        "startOffset" : 420,
+        "endOffset" : 421,
+        "text" : "１",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "１"
+        } ]
+      }, {
+        "startOffset" : 421,
+        "endOffset" : 422,
+        "text" : "日",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "日"
+        } ]
+      }, {
+        "startOffset" : 422,
+        "endOffset" : 423,
+        "text" : "に",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に"
+        } ]
+      }, {
+        "startOffset" : 423,
+        "endOffset" : 425,
+        "text" : "立法",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "立法"
+        } ]
+      }, {
+        "startOffset" : 425,
+        "endOffset" : 426,
+        "text" : "会",
+        "analyses" : [ {
+          "partOfSpeech" : "WS",
+          "lemma" : "会"
+        } ]
+      }, {
+        "startOffset" : 426,
+        "endOffset" : 427,
+        "text" : "（",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "（"
+        } ]
+      }, {
+        "startOffset" : 427,
+        "endOffset" : 429,
+        "text" : "議会",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "議会"
+        } ]
+      }, {
+        "startOffset" : 429,
+        "endOffset" : 430,
+        "text" : "）",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "）"
+        } ]
+      }, {
+        "startOffset" : 430,
+        "endOffset" : 431,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 431,
+        "endOffset" : 433,
+        "text" : "一時",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "一時"
+        } ]
+      }, {
+        "startOffset" : 433,
+        "endOffset" : 435,
+        "text" : "占拠",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "占拠"
+        } ]
+      }, {
+        "startOffset" : 435,
+        "endOffset" : 437,
+        "text" : "した",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 437,
+        "endOffset" : 439,
+        "text" : "こと",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "こと"
+        } ]
+      }, {
+        "startOffset" : 439,
+        "endOffset" : 440,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 440,
+        "endOffset" : 443,
+        "text" : "厳しく",
+        "analyses" : [ {
+          "partOfSpeech" : "AJ",
+          "lemma" : "厳しい"
+        } ]
+      }, {
+        "startOffset" : 443,
+        "endOffset" : 445,
+        "text" : "批判",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "批判"
+        } ]
+      }, {
+        "startOffset" : 445,
+        "endOffset" : 446,
+        "text" : "し",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 446,
+        "endOffset" : 447,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 447,
+        "endOffset" : 450,
+        "text" : "活動家",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "活動家"
+        } ]
+      }, {
+        "startOffset" : 450,
+        "endOffset" : 451,
+        "text" : "１",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "１"
+        } ]
+      }, {
+        "startOffset" : 451,
+        "endOffset" : 452,
+        "text" : "人",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "人"
+        } ]
+      }, {
+        "startOffset" : 452,
+        "endOffset" : 453,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 453,
+        "endOffset" : 455,
+        "text" : "起訴",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "起訴"
+        } ]
+      }, {
+        "startOffset" : 455,
+        "endOffset" : 457,
+        "text" : "する",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 457,
+        "endOffset" : 459,
+        "text" : "など",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "など"
+        } ]
+      }, {
+        "startOffset" : 459,
+        "endOffset" : 460,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 460,
+        "endOffset" : 464,
+        "text" : "刑事責任",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "刑事責任",
+          "components" : [ {
+            "startOffset" : 0,
+            "endOffset" : 2,
+            "text" : "刑事",
+            "analyses" : [ {
+              "partOfSpeech" : "NC",
+              "lemma" : "刑事"
+            } ]
+          }, {
+            "startOffset" : 2,
+            "endOffset" : 4,
+            "text" : "責任",
+            "analyses" : [ {
+              "partOfSpeech" : "NC",
+              "lemma" : "責任"
+            } ]
+          } ]
+        } ]
+      }, {
+        "startOffset" : 464,
+        "endOffset" : 465,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 465,
+        "endOffset" : 467,
+        "text" : "追及",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "追及"
+        } ]
+      }, {
+        "startOffset" : 467,
+        "endOffset" : 468,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 468,
+        "endOffset" : 471,
+        "text" : "始めて",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "始める"
+        } ]
+      }, {
+        "startOffset" : 471,
+        "endOffset" : 473,
+        "text" : "いる",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "いる"
+        } ]
+      }, {
+        "startOffset" : 473,
+        "endOffset" : 474,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 474,
+        "endOffset" : 476,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 476,
+        "endOffset" : 478,
+        "text" : "政府",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "政府"
+        } ]
+      }, {
+        "startOffset" : 478,
+        "endOffset" : 479,
+        "text" : "も",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "も"
+        } ]
+      }, {
+        "startOffset" : 479,
+        "endOffset" : 480,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 480,
+        "endOffset" : 481,
+        "text" : "「",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "「"
+        } ]
+      }, {
+        "startOffset" : 481,
+        "endOffset" : 483,
+        "text" : "暴力",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "暴力"
+        } ]
+      }, {
+        "startOffset" : 483,
+        "endOffset" : 485,
+        "text" : "行為",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "行為"
+        } ]
+      }, {
+        "startOffset" : 485,
+        "endOffset" : 486,
+        "text" : "」",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "」"
+        } ]
+      }, {
+        "startOffset" : 486,
+        "endOffset" : 489,
+        "text" : "として",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "として"
+        } ]
+      }, {
+        "startOffset" : 489,
+        "endOffset" : 491,
+        "text" : "糾弾",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "糾弾"
+        } ]
+      }, {
+        "startOffset" : 491,
+        "endOffset" : 493,
+        "text" : "する",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 493,
+        "endOffset" : 495,
+        "text" : "姿勢",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "姿勢"
+        } ]
+      }, {
+        "startOffset" : 495,
+        "endOffset" : 496,
+        "text" : "を",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "を"
+        } ]
+      }, {
+        "startOffset" : 496,
+        "endOffset" : 499,
+        "text" : "示して",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "示す"
+        } ]
+      }, {
+        "startOffset" : 499,
+        "endOffset" : 501,
+        "text" : "いる",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "いる"
+        } ]
+      }, {
+        "startOffset" : 501,
+        "endOffset" : 502,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 503,
+        "endOffset" : 505,
+        "text" : "これ",
+        "analyses" : [ {
+          "partOfSpeech" : "NR",
+          "lemma" : "これ"
+        } ]
+      }, {
+        "startOffset" : 505,
+        "endOffset" : 508,
+        "text" : "に対し",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に対し"
+        } ]
+      }, {
+        "startOffset" : 508,
+        "endOffset" : 509,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 509,
+        "endOffset" : 510,
+        "text" : "７",
+        "analyses" : [ {
+          "partOfSpeech" : "NN",
+          "lemma" : "７"
+        } ]
+      }, {
+        "startOffset" : 510,
+        "endOffset" : 511,
+        "text" : "日",
+        "analyses" : [ {
+          "partOfSpeech" : "NU",
+          "lemma" : "日"
+        } ]
+      }, {
+        "startOffset" : 511,
+        "endOffset" : 512,
+        "text" : "の",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "の"
+        } ]
+      }, {
+        "startOffset" : 512,
+        "endOffset" : 514,
+        "text" : "デモ",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "デモ"
+        } ]
+      }, {
+        "startOffset" : 514,
+        "endOffset" : 516,
+        "text" : "参加",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "参加"
+        } ]
+      }, {
+        "startOffset" : 516,
+        "endOffset" : 517,
+        "text" : "者",
+        "analyses" : [ {
+          "partOfSpeech" : "WS",
+          "lemma" : "者"
+        } ]
+      }, {
+        "startOffset" : 517,
+        "endOffset" : 518,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 518,
+        "endOffset" : 519,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 519,
+        "endOffset" : 520,
+        "text" : "「",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "「"
+        } ]
+      }, {
+        "startOffset" : 520,
+        "endOffset" : 522,
+        "text" : "暴徒",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "暴徒"
+        } ]
+      }, {
+        "startOffset" : 522,
+        "endOffset" : 523,
+        "text" : "は",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "は"
+        } ]
+      }, {
+        "startOffset" : 523,
+        "endOffset" : 526,
+        "text" : "いない",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "いる"
+        } ]
+      }, {
+        "startOffset" : 526,
+        "endOffset" : 527,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      }, {
+        "startOffset" : 527,
+        "endOffset" : 529,
+        "text" : "ある",
+        "analyses" : [ {
+          "partOfSpeech" : "V",
+          "lemma" : "ある"
+        } ]
+      }, {
+        "startOffset" : 529,
+        "endOffset" : 531,
+        "text" : "のは",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "のは"
+        } ]
+      }, {
+        "startOffset" : 531,
+        "endOffset" : 533,
+        "text" : "暴政",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "暴政"
+        } ]
+      }, {
+        "startOffset" : 533,
+        "endOffset" : 535,
+        "text" : "のみ",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "のみ"
+        } ]
+      }, {
+        "startOffset" : 535,
+        "endOffset" : 536,
+        "text" : "だ",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "だ"
+        } ]
+      }, {
+        "startOffset" : 536,
+        "endOffset" : 537,
+        "text" : "」",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "」"
+        } ]
+      }, {
+        "startOffset" : 537,
+        "endOffset" : 538,
+        "text" : "と",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "と"
+        } ]
+      }, {
+        "startOffset" : 538,
+        "endOffset" : 540,
+        "text" : "訴え",
+        "analyses" : [ {
+          "partOfSpeech" : "V1",
+          "lemma" : "訴える"
+        } ]
+      }, {
+        "startOffset" : 540,
+        "endOffset" : 541,
+        "text" : "、",
+        "analyses" : [ {
+          "partOfSpeech" : "PUNCT",
+          "lemma" : "、"
+        } ]
+      }, {
+        "startOffset" : 541,
+        "endOffset" : 543,
+        "text" : "中国",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "中国"
+        } ]
+      }, {
+        "startOffset" : 543,
+        "endOffset" : 544,
+        "text" : "・",
+        "analyses" : [ {
+          "partOfSpeech" : "UNKNOWN",
+          "lemma" : "・"
+        } ]
+      }, {
+        "startOffset" : 544,
+        "endOffset" : 546,
+        "text" : "香港",
+        "analyses" : [ {
+          "partOfSpeech" : "NP",
+          "lemma" : "香港"
+        } ]
+      }, {
+        "startOffset" : 546,
+        "endOffset" : 547,
+        "text" : "両",
+        "analyses" : [ {
+          "partOfSpeech" : "FP",
+          "lemma" : "両"
+        } ]
+      }, {
+        "startOffset" : 547,
+        "endOffset" : 549,
+        "text" : "政府",
+        "analyses" : [ {
+          "partOfSpeech" : "NC",
+          "lemma" : "政府"
+        } ]
+      }, {
+        "startOffset" : 549,
+        "endOffset" : 550,
+        "text" : "に",
+        "analyses" : [ {
+          "partOfSpeech" : "PL",
+          "lemma" : "に"
+        } ]
+      }, {
+        "startOffset" : 550,
+        "endOffset" : 552,
+        "text" : "強く",
+        "analyses" : [ {
+          "partOfSpeech" : "AJ",
+          "lemma" : "強い"
+        } ]
+      }, {
+        "startOffset" : 552,
+        "endOffset" : 554,
+        "text" : "反発",
+        "analyses" : [ {
+          "partOfSpeech" : "VN",
+          "lemma" : "反発"
+        } ]
+      }, {
+        "startOffset" : 554,
+        "endOffset" : 556,
+        "text" : "した",
+        "analyses" : [ {
+          "partOfSpeech" : "FS",
+          "lemma" : "する"
+        } ]
+      }, {
+        "startOffset" : 556,
+        "endOffset" : 557,
+        "text" : "。",
+        "analyses" : [ {
+          "partOfSpeech" : "EOS",
+          "lemma" : "。"
+        } ]
+      } ]
+    },
+    "entities" : {
+      "type" : "list",
+      "itemType" : "entities",
+      "items" : [ {
+        "mentions" : [ {
+          "startOffset" : 0,
+          "endOffset" : 2,
+          "confidence" : 0.96399975,
+          "linkingConfidence" : 0.70760229,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港"
+        }, {
+          "startOffset" : 23,
+          "endOffset" : 25,
+          "confidence" : 0.58447027,
+          "linkingConfidence" : 0.76508322,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港"
+        }, {
+          "startOffset" : 230,
+          "endOffset" : 232,
+          "confidence" : 0.59595668,
+          "linkingConfidence" : 0.76508322,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港"
+        }, {
+          "startOffset" : 277,
+          "endOffset" : 280,
+          "confidence" : 0.31496251,
+          "linkingConfidence" : 0.84139828,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港島"
+        }, {
+          "startOffset" : 352,
+          "endOffset" : 354,
+          "confidence" : 0.42690349,
+          "linkingConfidence" : 0.84139828,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "LOCATION",
+        "entityId" : "Q8646",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 3,
+          "endOffset" : 5,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-location.txt",
+          "normalized" : "九竜"
+        }, {
+          "startOffset" : 76,
+          "endOffset" : 78,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-location.txt",
+          "normalized" : "九竜"
+        }, {
+          "startOffset" : 103,
+          "endOffset" : 105,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-location.txt",
+          "normalized" : "九竜"
+        }, {
+          "startOffset" : 393,
+          "endOffset" : 395,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-location.txt",
+          "normalized" : "九竜"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "LOCATION",
+        "entityId" : "T1",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 5,
+          "endOffset" : 7,
+          "confidence" : 0.43923199,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "半島"
+        }, {
+          "startOffset" : 78,
+          "endOffset" : 80,
+          "confidence" : 0.49499226,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "半島"
+        }, {
+          "startOffset" : 105,
+          "endOffset" : 107,
+          "confidence" : 0.03953135,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "半島"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "LOCATION",
+        "entityId" : "T2",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 9,
+          "endOffset" : 11,
+          "linkingConfidence" : 0.21378104,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "デモ"
+        }, {
+          "startOffset" : 63,
+          "endOffset" : 65,
+          "linkingConfidence" : 0.21378104,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "デモ"
+        }, {
+          "startOffset" : 90,
+          "endOffset" : 92,
+          "linkingConfidence" : 0.21378104,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "デモ"
+        }, {
+          "startOffset" : 139,
+          "endOffset" : 141,
+          "linkingConfidence" : 0.21378104,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "デモ"
+        }, {
+          "startOffset" : 262,
+          "endOffset" : 264,
+          "linkingConfidence" : 0.21378104,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "デモ"
+        }, {
+          "startOffset" : 512,
+          "endOffset" : 514,
+          "linkingConfidence" : 0.21378104,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "デモ"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "MISC",
+        "entityId" : "Q175331",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 18,
+          "endOffset" : 20,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-per_class.txt",
+          "normalized" : "警官"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "PER_CLASS",
+        "entityId" : "T4",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 20,
+          "endOffset" : 22,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "衝突"
+        }, {
+          "startOffset" : 125,
+          "endOffset" : 127,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "衝突"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T5",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 26,
+          "endOffset" : 28,
+          "source" : "regex",
+          "subsource" : "jpn_11",
+          "normalized" : "７日"
+        }, {
+          "startOffset" : 509,
+          "endOffset" : 511,
+          "source" : "regex",
+          "subsource" : "jpn_11",
+          "normalized" : "７日"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "TEMPORAL:DATE",
+        "entityId" : "T7",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 29,
+          "endOffset" : 31,
+          "confidence" : 0.49580491,
+          "linkingConfidence" : 0.54748499,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "中国"
+        }, {
+          "startOffset" : 67,
+          "endOffset" : 69,
+          "confidence" : 0.51996636,
+          "linkingConfidence" : 0.54748499,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "中国"
+        }, {
+          "startOffset" : 297,
+          "endOffset" : 299,
+          "confidence" : 0.39821219,
+          "linkingConfidence" : 0.54748499,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "中国"
+        }, {
+          "startOffset" : 328,
+          "endOffset" : 330,
+          "confidence" : 0.42011976,
+          "linkingConfidence" : 0.54748499,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "中国"
+        }, {
+          "startOffset" : 355,
+          "endOffset" : 357,
+          "confidence" : 0.47342587,
+          "linkingConfidence" : 0.59205793,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "中国"
+        }, {
+          "startOffset" : 541,
+          "endOffset" : 546,
+          "linkingConfidence" : 0.23262814,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "中国香港"
+        } ],
+        "headMentionIndex" : 5,
+        "type" : "LOCATION",
+        "entityId" : "Q148",
+        "salience" : 1.0,
+        "DBpediaType" : [ "Place/PopulatedPlace/Country" ]
+      }, {
+        "mentions" : [ {
+          "startOffset" : 33,
+          "endOffset" : 35,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "犯罪"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T9",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 35,
+          "endOffset" : 38,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "容疑者"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T10",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 38,
+          "endOffset" : 42,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "引き渡し"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T11",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 48,
+          "endOffset" : 53,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-campaign.txt",
+          "normalized" : "逃亡犯条例"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "CAMPAIGN",
+        "entityId" : "T12",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 113,
+          "endOffset" : 115,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "占拠"
+        }, {
+          "startOffset" : 433,
+          "endOffset" : 435,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "占拠"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T20",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 121,
+          "endOffset" : 124,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-org.txt",
+          "normalized" : "警官隊"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "T21",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 132,
+          "endOffset" : 134,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "拘束"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T23",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 155,
+          "endOffset" : 157,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-org.txt",
+          "normalized" : "警察"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "T25",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 168,
+          "endOffset" : 170,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "参加"
+        }, {
+          "startOffset" : 514,
+          "endOffset" : 516,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "参加"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T26",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 173,
+          "endOffset" : 175,
+          "source" : "regex",
+          "subsource" : "jpn_16",
+          "normalized" : "６月"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "TEMPORAL:DATE",
+        "entityId" : "T27",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 205,
+          "endOffset" : 209,
+          "confidence" : 0.10886741,
+          "linkingConfidence" : 0.42715928,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港政府"
+        }, {
+          "startOffset" : 402,
+          "endOffset" : 406,
+          "confidence" : 0.43346632,
+          "linkingConfidence" : 0.42715928,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "香港政府"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "Q15164",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 213,
+          "endOffset" : 215,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "沈静"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T29",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 235,
+          "endOffset" : 237,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "不満"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T31",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 256,
+          "endOffset" : 258,
+          "source" : "regex",
+          "subsource" : "jpn_16",
+          "normalized" : "７月"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "TEMPORAL:DATE",
+        "entityId" : "T32",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 270,
+          "endOffset" : 272,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-org.txt",
+          "normalized" : "政府"
+        }, {
+          "startOffset" : 547,
+          "endOffset" : 549,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-org.txt",
+          "normalized" : "政府"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "T34",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 367,
+          "endOffset" : 371,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-location.txt",
+          "normalized" : "西九竜駅"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "LOCATION",
+        "entityId" : "T40",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 373,
+          "endOffset" : 376,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-LE.bin",
+          "normalized" : "中国人"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "NATIONALITY",
+        "entityId" : "T41",
+        "salience" : 1.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 420,
+          "endOffset" : 422,
+          "source" : "regex",
+          "subsource" : "jpn_11",
+          "normalized" : "１日"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "TEMPORAL:DATE",
+        "entityId" : "T44",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 423,
+          "endOffset" : 426,
+          "linkingConfidence" : 0.77588774,
+          "source" : "kb-linker",
+          "subsource" : "basis",
+          "normalized" : "立法会"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "Q19208",
+        "salience" : 0.0,
+        "DBpediaType" : [ "Agent/Organisation/Legislature" ]
+      }, {
+        "mentions" : [ {
+          "startOffset" : 427,
+          "endOffset" : 429,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-org.txt",
+          "normalized" : "議会"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "T46",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 431,
+          "endOffset" : 433,
+          "source" : "regex",
+          "subsource" : "jpn_7",
+          "normalized" : "一時"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "TEMPORAL:TIME",
+        "entityId" : "T47",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 443,
+          "endOffset" : 445,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "批判"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T49",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 447,
+          "endOffset" : 450,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-per_class.txt",
+          "normalized" : "活動家"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "PER_CLASS",
+        "entityId" : "T50",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 453,
+          "endOffset" : 455,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "起訴"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T51",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 460,
+          "endOffset" : 464,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "刑事責任"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T52",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 465,
+          "endOffset" : 467,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "追及"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T53",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 474,
+          "endOffset" : 478,
+          "confidence" : 0.77621865,
+          "source" : "statistical",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/statistical/jpn/model-LE.bin",
+          "normalized" : "中国政府"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "ORGANIZATION",
+        "entityId" : "T54",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 481,
+          "endOffset" : 485,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "暴力行為"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T55",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 489,
+          "endOffset" : 491,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "糾弾"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T56",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 520,
+          "endOffset" : 522,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-per_class.txt",
+          "normalized" : "暴徒"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "PER_CLASS",
+        "entityId" : "T60",
+        "salience" : 0.0
+      }, {
+        "mentions" : [ {
+          "startOffset" : 552,
+          "endOffset" : 554,
+          "source" : "gazetteer",
+          "subsource" : "/Users/isao/Basis/rex-je-7.43.0.c61.0/data/gazetteer/jpn/accept/gaz-eventive_noun.txt",
+          "normalized" : "反発"
+        } ],
+        "headMentionIndex" : 0,
+        "type" : "EVENTIVE_NOUN",
+        "entityId" : "T63",
+        "salience" : 0.0
+      } ]
+    }
+  },
+  "documentMetadata" : {
+    "com.basistech.processed-by" : [ "xla" ]
+  }
+}
